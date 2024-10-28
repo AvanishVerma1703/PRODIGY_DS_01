@@ -36,5 +36,5 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a href="www.linkedin.com/in/avanish-verma17">Avanish Verma (LinkedIn)</a>
+- <a href="https://www.linkedin.com/in/avanish-verma17">Avanish Verma (LinkedIn)</a>
 - Email: work.avaiverma.17@gmail.com
